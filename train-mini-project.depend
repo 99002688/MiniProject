@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1601709533 source:/home/genesis-88/Desktop/train-mini-project/main.cpp
+	"train.h"
+
+1601709440 /home/genesis-88/Desktop/train-mini-project/train.h
+	<semaphore.h>
+	<string>
+	<stdlib.h>
+	<pthread.h>
+	<iostream>
+
+1601808961 source:c:\users\shraw\desktop\miniproject-master\train-mini-project\main.cpp
+	"train.h"
+	"compartment.h"
+	<list>
+	<iterator>
+	<vector>
+
+1601808967 c:\users\shraw\desktop\miniproject-master\train-mini-project\train.h
+	<semaphore.h>
+	<stdlib.h>
+	<pthread.h>
+	<iostream>
+
+1601807655 source:c:\users\shraw\desktop\miniproject-master\train-mini-project\train_test.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<gtest/gtest.h>
+
+1601808826 c:\users\shraw\desktop\miniproject-master\train-mini-project\compartment.h
+	<string>
+
