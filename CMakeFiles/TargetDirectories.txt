@@ -1,0 +1,3 @@
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/CMakeFiles/edit_cache.dir
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/CMakeFiles/rebuild_cache.dir
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/CMakeFiles/TrainMain.dir

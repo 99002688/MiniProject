@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/compartment.h
+string
+-
+
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/main.cpp
+train.h
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/train.h
+compartment.h
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/compartment.h
+list
+-
+iterator
+-
+vector
+-
+
+/home/shrawani/Desktop/MiniProject-main/MIniProject/MiniProject/train.h
+semaphore.h
+-
+stdlib.h
+-
+pthread.h
+-
+iostream
+-
+
