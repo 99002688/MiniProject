@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/TrainMain.dir/main.cpp.o  -o TrainMain  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
