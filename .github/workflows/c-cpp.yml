@@ -19,8 +19,7 @@ jobs:
       run: sudo apt-get install cmake
     - name: cd
       run: cd /usr/src/gtest
-    - name: cp
-      run: sudo cp *.a /usr/lib
+   
     
     - name: cmake
       run: cmake CMakeLists.txt
