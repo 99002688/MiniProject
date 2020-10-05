@@ -1,3 +1,0 @@
-/home/genesis-88/Documents/MiniProject-main/CMakeFiles/rebuild_cache.dir
-/home/genesis-88/Documents/MiniProject-main/CMakeFiles/edit_cache.dir
-/home/genesis-88/Documents/MiniProject-main/CMakeFiles/TrainMain.dir
