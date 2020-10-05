@@ -20,11 +20,12 @@ jobs:
     - name: cd
       run: cd /usr/src/gtest
    
-    - name: return
-      run: |
-        cd ..
-        cd ..
-        cd ..
+    - name: return1
+      run: cd ..
+    - name: return2
+      run: cd ..
+    - name: return3
+      run: cd ..
         
     - name: cp
       run: sudo cp *.a /usr/lib
