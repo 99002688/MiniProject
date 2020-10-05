@@ -13,8 +13,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: gtest
+      run: sudo apt-get install libgtest-dev
     - name: Install cmake
       run: sudo apt-get install cmake
+    - name: cd
+      run: cd /usr/src/gtest
+    - name: cp
+      run: sudo cp *.a /usr/lib
     - name: cmake
       run: cmake CMakeLists.txt
       
