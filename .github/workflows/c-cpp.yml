@@ -27,8 +27,7 @@ jobs:
     - name: return3
       run: cd ..
         
-    - name: cp
-      run: sudo cp *.a /usr/lib
+   
       
     - name: cmake
       run: cmake CMakeLists.txt
