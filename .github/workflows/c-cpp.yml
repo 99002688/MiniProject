@@ -12,25 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: gtest
-      run: sudo apt-get install libgtest-dev
-    - name: Install cmake
-      run: sudo apt-get install cmake
-    - name: cd
-      run: cd /usr/src/gtest
    
-    - name: return1
-      run: cd ..
-    - name: return2
-      run: cd ..
-    - name: return3
-      run: cd ..
-        
-   
-      
-    - name: cmake
-      run: cmake CMakeLists.txt
       
     - name: make 
       run:  make 
