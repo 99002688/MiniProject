@@ -7,3 +7,5 @@ The use enters number of trains with the type among following options: (Special,
 ![cppcheck-action](https://github.com/99002688/MiniProject/workflows/cppcheck-action/badge.svg)
 
 ![Valgrind](https://github.com/99002688/MiniProject/workflows/Valgrind/badge.svg)
+
+![C/C++ CI](https://github.com/99002688/MiniProject/workflows/C/C++%20CI/badge.svg)
