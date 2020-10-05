@@ -26,3 +26,5 @@ jobs:
       
     - name: make 
       run:  make 
+    - name: cp
+      run: sudo cp *.a /usr/lib
