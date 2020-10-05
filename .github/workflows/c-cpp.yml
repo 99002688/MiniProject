@@ -20,11 +20,18 @@ jobs:
     - name: cd
       run: cd /usr/src/gtest
    
-    
+    - name: return
+      run: |
+        cd ..
+        cd ..
+        cd ..
+        
+    - name: cp
+      run: sudo cp *.a /usr/lib
+      
     - name: cmake
       run: cmake CMakeLists.txt
       
     - name: make 
       run:  make 
-    - name: cp
-      run: sudo cp *.a /usr/lib
+    
