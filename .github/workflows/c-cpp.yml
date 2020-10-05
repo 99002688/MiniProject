@@ -13,6 +13,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Install cmake
+      run: sudo apt-get install cmake
+    - name: cmake
+      run: cmake CMakeLists.txt
       
     - name: make 
       run:  make 
